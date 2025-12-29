@@ -35,5 +35,5 @@ This project showcases an interactive Power BI dashboard built on the SuperStore
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/powerbi-superstore-sales-dashboard.git
+   git clone https://github.com/DEVARAMANI/PowerBI-Superstore-Sales-Dashboard.git
 2. Explore and Have fun!!
